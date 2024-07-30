@@ -18,6 +18,11 @@ namespace OOP_assignment_4
             series.Reset();
 
 
+
+
+
+
+
         }
         static void Main(string[] args)
         {
